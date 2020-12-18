@@ -1,6 +1,8 @@
 # Identity Detection 👩👨
 In this project, the face_recognition pre-trained model has been used to identify the identity of the faces in the images using the database of the identities that will be given to the model as an input.
 
+**Installation**
+For installation and requirements check the requirements.txt
 
 🧙🏻‍♂️ **The Model** 
 The model consists of some steps to follow, each step is explained below. I used the face recognition pre-trained model which has been built using dlib’s state-of-the-art face recognition and built with deep learning. The model has an accuracy of 99.38% on the Labeled Faces in the Wild benchmark.
